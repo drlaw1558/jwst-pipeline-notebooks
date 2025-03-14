@@ -19,9 +19,9 @@ The following table summarizes the notebooks currently available and the JWST [p
 | Instrument | Observing Mode | JWST Build | ``jwst`` version | Notebook |
 |------------|----------------|------------|--------------------------|-------|
 | MIRI       | Imaging        | 11.2       | 1.17.1 | [JWPipeNB-MIRI-imaging.ipynb](https://github.com/spacetelescope/jwst-pipeline-notebooks/blob/main/notebooks/MIRI/Imaging/JWPipeNB-MIRI-imaging.ipynb) |
-| MIRI       | Imaging TSO    | 11.2       | 1.17.1 | | 
-| MIRI       | LRS Slit       | 11.2       | 1.17.1 | | 
-| MIRI       | LRS Slitless   | 11.2       | 1.17.1 | | 
+| MIRI       | Imaging TSO    | 11.2       | 1.17.1 | [JWPipeNB-MIRI-imaging-TSO.ipynb](https://github.com/spacetelescope/jwst-pipeline-notebooks/blob/main/notebooks/MIRI/Imaging-TSO/JWPipeNB-MIRI-imaging-TSO.ipynb) |
+| MIRI       | LRS Slit       | 11.2       | 1.17.1 | [JWPipeNB-MIRI-LRS-slit.ipynb](https://github.com/spacetelescope/jwst-pipeline-notebooks/blob/main/notebooks/MIRI/LRS-slit/JWPipeNB-MIRI-LRS-slit.ipynb) |
+| MIRI       | LRS Slitless   | 11.2       | 1.17.1 | [JWPipeNB-MIRI-LRS-slitless-TSO.ipynb](https://github.com/spacetelescope/jwst-pipeline-notebooks/blob/main/notebooks/MIRI/LRS-slitless-TSO/JWPipeNB-MIRI-LRS-slitless-TSO.ipynb) |
 | MIRI       | MRS            | 11.2       | 1.17.1 | |  
 | NIRCam     | Imaging        | 11.2       | 1.17.1 | | 
 | NIRISS     | Imaging        | 11.2       | 1.17.1 | | 
