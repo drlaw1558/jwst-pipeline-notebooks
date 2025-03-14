@@ -17,7 +17,7 @@ These notebooks are modular, allowing users to enable or disable different stage
 The following table summarizes the notebooks currently available and the JWST [pipeline versions](https://jwst-docs.stsci.edu/jwst-science-calibration-pipeline/jwst-operations-pipeline-build-information) that they have been tested with:
 
 | Instrument | Observing Mode | JWST Build | ``jwst`` version | Notebook | Notes                                         |
-|------------|----------------|------------|--------------------------|-----------------------------------------------|
+|------------|----------------|------------|--------------------------|-----------------------------------------------|-----------------------------------------------|
 | MIRI       | Imaging        | 11.2       | 1.17.1 | [JWPipeNB-MIRI-imaging.ipynb](https://github.com/spacetelescope/jwst-pipeline-notebooks/blob/main/notebooks/MIRI/Imaging/JWPipeNB-MIRI-imaging.ipynb) | [JDox](https://jwst-docs.stsci.edu/jwst-mid-infrared-instrument/miri-observing-modes/miri-imaging)  |
 | MIRI       | Imaging TSO    | 11.2       | 1.17.1 | | [JDox mode overview](https://jwst-docs.stsci.edu/jwst-mid-infrared-instrument/miri-observing-modes/miri-time-series-observations/miri-imaging-tsos)  |
 | MIRI       | LRS Slit       | 11.2       | 1.17.1 | |  [JDox mode overview](https://jwst-docs.stsci.edu/jwst-mid-infrared-instrument/miri-observing-modes/miri-low-resolution-spectroscopy)  |
