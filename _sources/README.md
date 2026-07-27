@@ -5,7 +5,7 @@
 [![DOI](https://zenodo.org/badge/782173509.svg)](https://doi.org/10.5281/zenodo.15060584)
 
 > [!IMPORTANT]
-> JWST requires a C compiler for dependencies and is currently limited to Python 3.11 - 3.14.
+> JWST requires a C compiler for dependencies and is currently limited to Python 3.12 - 3.14.
 
 > [!NOTE]
 > Linux and MacOS platforms are tested and supported.  Windows is not currently supported.
@@ -28,6 +28,7 @@ The following table summarizes the notebooks currently available and the JWST [p
 | MIRI       | MRS            | 12.3       | 2.0.0 | [JWPipeNB-MIRI-MRS.ipynb](https://github.com/spacetelescope/jwst-pipeline-notebooks/blob/main/notebooks/MIRI/MRS/JWPipeNB-MIRI-MRS.ipynb)  |
 | NIRCam     | Coronagraphy   | 12.3       | 2.0.0 | [JWPipeNB-nircam-coronagraphy.ipynb](https://github.com/spacetelescope/jwst-pipeline-notebooks/blob/main/notebooks/NIRCAM/Coronagraphy/JWPipeNB-nircam-coronagraphy.ipynb)  |
 | NIRCam     | Imaging        | 12.3       | 2.0.0 | [JWPipeNB-nircam-imaging.ipynb](https://github.com/spacetelescope/jwst-pipeline-notebooks/blob/main/notebooks/NIRCAM/Imaging/JWPipeNB-nircam-imaging.ipynb)  |
+| NIRCam     | LW Grism TSO   | 12.3       | 2.0.0 | [JWPipeNB-NIRCam-LWGTS.ipynb](https://github.com/spacetelescope/jwst-pipeline-notebooks/blob/main/notebooks/NIRCAM/LW_Grism_Time_Series/JWPipeNB-NIRCam-LWGTS.ipynb)  |
 | NIRISS     | AMI            | 12.3       | 2.0.0 | [JWPipeNB-niriss-ami.ipynb](https://github.com/spacetelescope/jwst-pipeline-notebooks/blob/main/notebooks/NIRISS/AMI/JWPipeNB-niriss-ami.ipynb)  |
 | NIRISS     | Imaging        | 12.3       | 2.0.0 | [JWPipeNB-niriss-imaging.ipynb](https://github.com/spacetelescope/jwst-pipeline-notebooks/blob/main/notebooks/NIRISS/Imaging/JWPipeNB-niriss-imaging.ipynb)  |
 | NIRISS     | SOSS           | 12.3       | 2.0.0 | [JWPipeNB-niriss-soss.ipynb](https://github.com/spacetelescope/jwst-pipeline-notebooks/blob/main/notebooks/NIRISS/SOSS/JWPipeNB-niriss-soss.ipynb)  |
